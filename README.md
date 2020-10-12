@@ -10,7 +10,6 @@ body {
 </style>
 
 <header>
-<p class="order now">Want to Order? Click <a href="Order.html">HERE</a> to start!</p>
 <p>
 <sup>the</sup>coffee<sub>lounge</sub>
 </p>
