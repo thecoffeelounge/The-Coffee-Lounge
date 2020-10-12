@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<style>
-body {
-  background-image: url('img_girl.jpg');
-}
-</style>
 
 <header>
 <p>
