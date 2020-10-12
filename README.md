@@ -6,7 +6,9 @@
 <p>
 <sup>the</sup>coffee<sub>lounge</sub>
 </p>
-<h1>HOME</h1>
+<h1>The Coffee Lounge</h1>
+  
+  <h2>HOME</h2>
 <nav>
 <ul>
 <li><a href="AboutUs.html">About Us</a></li>
@@ -19,8 +21,7 @@
 </header>
 <article>
 <section>
-<h1>The Coffee Lounge</h1>
-<p>Welcome to <sup>The</sup>Coffee<sub>Lounge!</sub></p>
+  <p>Welcome to <sup>The</sup>Coffee<sub>Lounge!</sub></p>
 </section>
 </article>
 <footer>
