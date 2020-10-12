@@ -1,1 +1,38 @@
-# The-Coffee-Lounge
+<!DOCTYPE html>
+<html>
+<title>The Coffee Lounge</title>
+<link type="text/css" rel="stylesheet" href="css/my-stylesheet1.css"/>
+<body>
+<style>
+body {
+  background-image: url('img_girl.jpg');
+}
+</style>
+
+<header>
+<p class="order now">Want to Order? Click <a href="Order.html">HERE</a> to start!</p>
+<p>
+<sup>the</sup>coffee<sub>lounge</sub>
+</p>
+<h1>HOME</h1>
+<nav>
+<ul>
+<li><a href="AboutUs.html">About Us</a></li>
+<li><a href="Location.html">Our Location</a></li>
+<li><a href="WWeServe.html">What We Serve</a></li>
+<li><a href="Order.html">Order Up!</a></li>
+<li><a href="acl.html">Apply Today!</a></li>
+</ul>
+</nav>
+</header>
+<article>
+<section>
+<h1>The Coffee Lounge</h1>
+<p>Welcome to <sup>The</sup>Coffee<sub>Lounge!</sub></p>
+</section>
+</article>
+<footer>
+<p class="contact">Contact: <a href="mailto:go.dasilva8@gmail.com">go.dasilva8@gmail.com</a> or: <a href="mailto:colleenosilva@yahoo.com">colleenosilva@yahoo.com</a></p>
+</footer>
+</body>
+</html>
