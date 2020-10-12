@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-<title>The Coffee Lounge</title>
-<link type="text/css" rel="stylesheet" href="css/my-stylesheet1.css"/>
 <body>
 <style>
 body {
